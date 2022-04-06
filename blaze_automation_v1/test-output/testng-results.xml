@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-06T09:49:35 SGT" name="Suite" finished-at="2022-04-06T09:49:42 SGT" duration-ms="7279">
+    <groups>
+    </groups>
+    <test started-at="2022-04-06T09:49:35 SGT" name="Test" finished-at="2022-04-06T09:49:42 SGT" duration-ms="7279">
+      <class name="com.blaze.testCases.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.blaze.testCases.LoginTest@13fd2ccd]" started-at="2022-04-06T09:49:35 SGT" name="setup" finished-at="2022-04-06T09:49:37 SGT" duration-ms="2544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:0, instance:com.blaze.testCases.LoginTest@13fd2ccd]" started-at="2022-04-06T09:49:37 SGT" name="loginTest" finished-at="2022-04-06T09:49:42 SGT" duration-ms="4665" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- com.blaze.testCases.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
